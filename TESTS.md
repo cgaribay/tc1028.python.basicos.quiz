@@ -9,68 +9,13 @@
 sudo -H pip3 install pytest
 ```
 
-- ## 04 Calcula tiempo
+- ## Quiz: Programas que hacen calculos
     ### Run command
     ```
-    pytest assignments/04CalculaTiempo
+    pytest assignments/QuizCalculos
     ```
 
-- ## 05 Calcula lustros
-    ### Run command
+    ### Other command
     ```
-    pytest assignments/05Lustros
-    ```
-
-- ## 06 Calcula peso por mes
-    ### Run command
-    ```
-    pytest assignments/06Peso
-    ```
-
-- ## 07 Pendiente Línea
-    ### Run command
-    ```
-    pytest assignments/07PendienteLinea
-    ```
-
-- ## 08 Caracol
-    ### Run command
-    ```
-    pytest assignments/08Caracol
-    ```
-
-- ## 09 Teléfono
-    ### Run command
-    ```
-    pytest assignments/09Telefono
-    ```
-
-- ## 10 Videojuego
-    ### Run command
-    ```
-    pytest assignments/10Videojuego
-    ```
-
-- ## 11 PEMDAS
-    ### Run command
-    ```
-    pytest assignments/11PEMDAS
-    ```
-
-- ## 18 Cuenta Bancaria
-    ### Run command
-    ```
-    pytest assignments/18CuentaBancaria
-    ```
-
-- ## 19 Editorial
-    ### Run command
-    ```
-    pytest assignments/19Editorial
-    ```
-
-- ## 20 Acertijo Edad
-    ### Run command
-    ```
-    pytest assignments/20AcertijoEdad
+    python -m pytest assignments/QuizCalculos
     ```
